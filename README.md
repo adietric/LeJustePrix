@@ -1,3 +1,3 @@
 # LeJustePrix
 
-![](LeJustPrix.gif)
+![](LeJustePrix.gif)
